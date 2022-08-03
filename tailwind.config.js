@@ -23,6 +23,11 @@ module.exports = {
           10: "#BF9B5F",
         },
       },
+      fontFamily: {
+        ilyas: ["ilyas", "cursive"],
+        basement: ["basementGrotesque", "system-ui", "sans-serif"],
+        sans: ["DM Sans", "sans-serif"],
+      },
     },
   },
   plugins: [],
